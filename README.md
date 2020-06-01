@@ -3,6 +3,7 @@
 ## Model 1
 
 1. Model
+
 MODEL 1 : 3 Layers with 1 Convolution layer
 
 ![model1](https://user-images.githubusercontent.com/37579727/83404090-ec745600-a444-11ea-9194-f2d54faa0965.PNG)
@@ -27,6 +28,7 @@ MODEL 1 : 3 Layers with 1 Convolution layer
 ## Model 2
 
 1. Model
+
 MODEL 2 : 5 Layers with 2 Convolution layer
 
 ![m2](https://user-images.githubusercontent.com/37579727/83405213-fe56f880-a446-11ea-953b-9219ce510b8c.PNG)
@@ -50,6 +52,7 @@ MODEL 2 : 5 Layers with 2 Convolution layer
 ## Model 3
 
 1. Model
+
 MODEL 3 : 7 Layers with 4 Convolution layer
 
 ![m3](https://user-images.githubusercontent.com/37579727/83405218-feef8f00-a446-11ea-9391-768439fcc7fa.PNG)
